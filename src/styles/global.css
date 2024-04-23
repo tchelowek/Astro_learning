@@ -23,6 +23,10 @@ html {
     color: green;
     font-weight: bold;
   }
+  .tags{
+    color: rgb(2, 6, 93);
+    font-weight: bold;
+  }
 /* стили для навигации */
 
 .hamburger {
