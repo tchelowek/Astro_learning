@@ -19,6 +19,10 @@ html {
     margin: 1rem 0;
     font-size: 2.5rem;
   }
+  .skill {
+    color: green;
+    font-weight: bold;
+  }
 /* стили для навигации */
 
 .hamburger {
